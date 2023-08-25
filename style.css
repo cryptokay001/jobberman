@@ -1,0 +1,33 @@
+.aster::after{
+    content: "*";
+    color: red;
+}
+body{
+    margin-top: 100px;
+    background-color: white;
+
+}
+.inputarea{
+    
+
+    margin: 10px;
+}
+.textarea{
+  padding-top: 5px;
+  
+  
+    
+}
+.nametag{
+    font-weight:300;
+    
+}
+#submitme{
+    background-color: aquamarine;
+    border-color: aquamarine;
+    width: 35%;
+
+}
+#checkbox{
+    margin-left: 10px;
+}
